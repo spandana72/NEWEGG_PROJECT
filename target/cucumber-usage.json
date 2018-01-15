@@ -1,0 +1,38 @@
+[
+  {
+    "source": "^Launch Browser and Navigate to Application URL$",
+    "steps": [
+      {
+        "name": "Launch Browser and Navigate to Application URL",
+        "aggregatedDurations": {
+          "average": 65.355328265,
+          "median": 65.355328265
+        },
+        "durations": [
+          {
+            "duration": 65.355328265,
+            "location": "src/test/resources/features/ForgotPassword.feature:26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Tap on Login/RegisterButton$",
+    "steps": [
+      {
+        "name": "Tap on Login/RegisterButton",
+        "aggregatedDurations": {
+          "average": 0.653337,
+          "median": 0.653337
+        },
+        "durations": [
+          {
+            "duration": 0.653337,
+            "location": "src/test/resources/features/ForgotPassword.feature:27"
+          }
+        ]
+      }
+    ]
+  }
+]
